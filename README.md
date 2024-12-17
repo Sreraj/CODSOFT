@@ -1,6 +1,3 @@
-Here’s a short and effective README section for your GitHub project:
-
-
 🛡️ Credit Card Fraud Detection
 
 This project, completed as part of my Machine Learning Internship at Codsoft, focuses on detecting fraudulent credit card transactions using machine learning techniques.
